@@ -1,0 +1,13 @@
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\bin\Debug\Ellipse_Game.exe.config
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\bin\Debug\Ellipse_Game.exe
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\bin\Debug\Ellipse_Game.pdb
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.csprojResolveAssemblyReference.cache
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\MainWindow.baml
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\App.g.cs
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game_MarkupCompile.cache
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.g.resources
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.Properties.Resources.resources
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.csproj.GenerateResource.Cache
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.exe
+C:\Users\Petro\Desktop\Work Table\C# Projects\Ellipse_Game\Ellipse_Game\obj\Debug\Ellipse_Game.pdb

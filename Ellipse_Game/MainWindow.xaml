@@ -1,0 +1,42 @@
+﻿<Window x:Class="Ellipse_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="File">
+                <MenuItem Header="New Game" Click="newGame_Click"></MenuItem>
+                <MenuItem Header="Exit" Click="exit_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="About" Click="about_Click"></MenuItem>
+        </Menu>
+        <Canvas Grid.Row="1" Background="LightBlue" MouseMove="MainGrid_MouseMove">
+
+            <Ellipse x:Name="first" Width="30" Height="30" Fill="Green" Margin="100,60" MouseMove="el_MouseMoveEllispe" />
+            <Ellipse x:Name="second" Width="30" Height="30" Fill="Green" Margin="230,40" MouseMove="el_MouseMoveEllispe" />
+            <Ellipse x:Name="third" Width="30" Height="30" Fill="Green" Margin="350,80" MouseMove="el_MouseMoveEllispe" />
+            <Ellipse x:Name="fourth" Width="30" Height="30" Fill="Green" Margin="380,150" MouseMove="el_MouseMoveEllispe" />
+            <Ellipse x:Name="fifth" Width="30" Height="30" Fill="Green" Margin="250,220" MouseMove="el_MouseMoveEllispe" />
+            <Ellipse x:Name="sixth" Width="30" Height="30" Fill="Green" Margin="130,170" MouseMove="el_MouseMoveEllispe" />
+
+            <Line x:Name="line0" Stroke="Black"/>
+            <Line x:Name="line1" Stroke="Black"/>
+            <Line x:Name="line2" Stroke="Black"/>
+            <Line x:Name="line3" Stroke="Black"/>
+            <Line x:Name="line4" Stroke="Black"/>
+            <Line x:Name="line5" Stroke="Black"/>
+            <Line x:Name="line6" Stroke="Black"/>
+            <Line x:Name="line7" Stroke="Black"/>
+            <Line x:Name="line8" Stroke="Black"/>
+            <Label x:Name="lbl_Win" Content="You Win!" Canvas.Left="100" Canvas.Top="90" Height="110" Width="291" Foreground="Red" FontSize="72"/>
+
+        </Canvas>
+        <TextBlock x:Name="coondinates" Text="Coordinates:" Grid.Row="2" Background="#FF32A046" />
+
+    </Grid>
+</Window>
